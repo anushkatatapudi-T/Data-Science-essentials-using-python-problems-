@@ -1,0 +1,11 @@
+painting_id,feature_id,feature,x,y,width,height,color,rgb
+0,b104,rect,0,0,146,13,white,#ced2ca
+1,b104,rect,151,0,576,13,gray,#a4a7a7
+2,b104,rect,732,0,278,129,gray,#c8c9c7
+3,b104,rect,0,18,146,468,white,#cfd0ce
+4,b104,rect,151,18,107,111,black,#151d16
+3199,b296,v-line,620,0,19,825,black,#000000
+3200,b296,v-line,49,508,19,79,black,#000000
+3201,b296,h-line,0,268,711,19,black,#000000
+3202,b296,h-line,0,489,711,19,black,#000000
+3203,b296,h-line,0,679,11,28,black,#000000

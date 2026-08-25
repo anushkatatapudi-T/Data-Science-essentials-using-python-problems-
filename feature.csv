@@ -1,0 +1,7 @@
+painting_id,feature,x,y,width,height,color,rgb
+b104,rect,0,0,146,13,white,#ced2ca
+b104,rect,151,0,576,13,gray,#a4a7a7
+b104,rect,732,0,278,129,gray,#c8c9c7
+b296,h-line,0,268,711,19,black,#000000
+b296,h-line,0,489,711,19,black,#000000
+b296,h-line,0,679,11,28,black,#000000
